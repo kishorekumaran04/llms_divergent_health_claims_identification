@@ -1,0 +1,14 @@
+Debates 1,6,9,10,13,41,43,65,121,147 are excluded are they are annotated manually
+
+Combined csv has debate values till debate: 12
+Combined csv has debate values till debate: 17
+Combined csv has debate values till debate: 24
+Combined csv has debate values till debate: 32
+Combined csv has debate values till debate: 53
+Combined csv has debate values till debate: 72
+Combined csv has debate values till debate: 91
+Combined csv has debate values till debate: 109
+Combined csv has debate values till debate: 114
+Combined csv has debate values till debate: 124
+Combined csv has debate values till debate: 144
+Combined csv has debate values till debate: 157
